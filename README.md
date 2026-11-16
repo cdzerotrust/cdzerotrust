@@ -45,6 +45,9 @@ My focus is translating cybersecurity principles into practical, measurable secu
 ![Proxmox](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge)
 ![OPNsense](https://img.shields.io/badge/OPNsense-Firewall-D94F00?style=for-the-badge)
 ![NIST](https://img.shields.io/badge/NIST-Security%20Frameworks-003366?style=for-the-badge)
+![Windows Autopilot](https://img.shields.io/badge/Microsoft-Autopilot-0078D4?style=for-the-badge)
+![Windows 11](https://img.shields.io/badge/Windows-11%20Enterprise-0078D4?style=for-the-badge)
+![Endpoint Management](https://img.shields.io/badge/Endpoint-Management-107C10?style=for-the-badge)
 
 ---
 
