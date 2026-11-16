@@ -57,6 +57,7 @@ My focus is translating cybersecurity principles into practical, measurable secu
 | [☁️ AD–Entra ID Hybrid Identity](https://github.com/cdzerotrust/AD-Entra-ID-Hybrid-Identity-Lab) | Directory Synchronization, Cloud Identity |
 | [📋 SOX ITGC Logical Access Assessment](https://github.com/cdzerotrust/SOX-ITGC-Logical-Access-Control-Assessment) | Access Reviews, Control Testing, Audit Evidence |
 | [🛡️ Greenbone Security Risk Assessment](https://github.com/cdzerotrust/greenbone-it-security-risk-assessment) | Vulnerability Assessment, Risk Analysis, NIST 800-53 |
+| 💻 [Windows 11 Autopilot & Intune Deployment](https://github.com/cdzerotrust/Windows-Autopilot-Intune-Deployment) | Windows Autopilot, Microsoft Entra Join, Intune MDM, Device Compliance, CHG0001002 |
 
 ---
 
