@@ -48,6 +48,9 @@ My focus is translating cybersecurity principles into practical, measurable secu
 ![Windows Autopilot](https://img.shields.io/badge/Microsoft-Autopilot-0078D4?style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows-11%20Enterprise-0078D4?style=for-the-badge)
 ![Endpoint Management](https://img.shields.io/badge/Endpoint-Management-107C10?style=for-the-badge)
+![Incident Management](https://img.shields.io/badge/Incident-Management-6A1B9A?style=for-the-badge)
+![Debian Linux](https://img.shields.io/badge/Debian-Linux-A81D33?style=for-the-badge)
+![Technical Investigations](https://img.shields.io/badge/Technical-Investigations-0078D4?style=for-the-badge)
 
 ---
 
@@ -61,6 +64,7 @@ My focus is translating cybersecurity principles into practical, measurable secu
 | [📋 SOX ITGC Logical Access Assessment](https://github.com/cdzerotrust/SOX-ITGC-Logical-Access-Control-Assessment) | Access Reviews, Control Testing, Audit Evidence |
 | [🛡️ Greenbone Security Risk Assessment](https://github.com/cdzerotrust/greenbone-it-security-risk-assessment) | Vulnerability Assessment, Risk Analysis, NIST 800-53 |
 | 💻 [Windows 11 Autopilot & Intune Deployment](https://github.com/cdzerotrust/Windows-Autopilot-Intune-Deployment) | Windows Autopilot, Microsoft Entra Join, Intune MDM, Device Compliance, CHG0001002 |
+| 🛠️ [Sentinel Ridge Incident Management](https://github.com/cdzerotrust/Sentinel-Ridge-Incident-Management) | Incident Management, IAM Troubleshooting, Root Cause Analysis, Linux Recovery, NIST 800-53 |
 
 ---
 
